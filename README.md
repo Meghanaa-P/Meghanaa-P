@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana P</h1>
 <h3 align="center">Engineering Student Specializing in AI & ML | Passionate About Innovation</h3>
-- 🔭 I’m currently working on Sign Language Recognition and Conversion Project 
-- 🌱 I’m currently learning Deep Learning, Advanced Machine Learning Techniques
+<li>- 🔭 I’m currently working on Sign Language Recognition and Conversion Project </li>
+<li>- 🌱 I’m currently learning Deep Learning, Advanced Machine Learning Techniques</li>
 
 - 📫 How to reach me meghanapshetty03@gmail.com
 
